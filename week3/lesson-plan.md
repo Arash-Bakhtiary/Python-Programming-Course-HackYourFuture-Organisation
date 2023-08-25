@@ -1,4 +1,4 @@
-# Week 3 : Python Operators & If Statements
+# Week 3 : Python Loops & Functions
 
 ## Pre-requisites :
 
