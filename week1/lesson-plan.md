@@ -1,12 +1,29 @@
-# Week 1 : Topic #1
+# Week 1 : Python Introduction & Data Types
 
 ## Pre-requisites:
 
-Something about installing the software or prior knowlegde about a specific topic
-
+This course has no prerequisites. However, having familiarity with other programming languages can aid in your comprehension of Python.
 ## Lesson Plan:
-### 1.	Sub-topic #1.1
+### 1.	Syntax
 
-### 2.	Sub-topic #1.2
+### 2.	Comments
 
-### 3.	Sub-topic #1.3
+### 3.	Variables
+
+### 4.	Class Integer
+
+### 5.	Class Float
+
+### 6.	Class String
+
+### 7.	Class List
+
+### 8.	Class Tuple
+
+### 9.	Class Dictionary
+
+### 10.	Class Set
+
+### 11.	Class Bool
+
+### 12.	Casting
