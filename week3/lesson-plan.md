@@ -37,5 +37,5 @@ Generator functions in Python are a special type of function that allow you to c
 ### 11.	Recursive Functions :
 Recursive functions are functions in Python that call themselves to solve a problem. They provide a way to solve complex problems by breaking them down into smaller, simpler instances of the same problem. 
 
-### 12.	Arguments in Functions :
-In Python, functions can accept arguments, which are values provided to the function when it's called. Arguments allow you to pass data into a function so that it can perform operations on that data.
+### 12.	Arguments in Functions : In Python, functions can accept arguments, which are values provided to the function when it's called. Arguments allow you to pass data into a function so that it can perform operations on that data.
+
