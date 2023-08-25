@@ -4,9 +4,9 @@
 
 This course has no prerequisites. However, having familiarity with other programming languages can aid in your comprehension of Python.
 ## Lesson Plan :
-### 1.	Syntax :
+### 1.	Syntax #1.1
 
-### 2.	Comments :
+### 2.	Comments #1.1
 
 ### 3.	Variables :
 
