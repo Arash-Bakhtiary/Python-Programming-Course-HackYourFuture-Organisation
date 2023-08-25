@@ -13,7 +13,7 @@ The math module in Python is a built-in module that provides various mathematica
 
 ### 2.	Random Library :
 The random module in Python is a built-in module that provides functions for generating random numbers, selecting random items, and performing other random-related operations. It's commonly used in various applications, simulations, and games that require randomness. Here are some commonly used functions from the random module:
-Generating Random Numbers: random.random(), random.uniform(a, b), random.randint(a, b), random.randrange(start, stop, step)
+* *Generating Random Numbers:* random.random(), random.uniform(a, b), random.randint(a, b), random.randrange(start, stop, step)
 Selecting Random Items: random.choice(seq), random.shuffle(lst), random.sample(population, k)
 Generating Random Sequences: random.seed(a=None, version=2), random.random()
 Random Probability: random.choices(population, weights=None, k=1), random.gauss(mu, sigma), 
