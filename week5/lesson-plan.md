@@ -6,10 +6,10 @@ This course has no prerequisites. However, having familiarity with other program
 ## Lesson Plan :
 ### 1.	Math Library :
 The math module in Python is a built-in module that provides various mathematical functions and constants. It allows you to perform complex mathematical operations and calculations. Here are some commonly used functions and constants from the math module:
-Mathematical Constants: math.pi, math.e
+* *Mathematical Constants:* math.pi, math.e
 * *Basic Mathematical Functions:*  math.sqrt(x), math.pow(x, y), math.exp(x), math.log(x), math.log10(x), math.ceil(x), math.floor(x)
-Trigonometric Functions: math.sin(x), math.cos(x), math.tan(x), math.degrees(x), math.radians(x)
-Other Functions: math.factorial(x), math.gcd(a, b), math.isqrt(n), math.modf(x), math.trunc(x), math.degrees(x), math.radians(x)
+* *Trigonometric Functions:* math.sin(x), math.cos(x), math.tan(x), math.degrees(x), math.radians(x)
+* *Other Functions:* math.factorial(x), math.gcd(a, b), math.isqrt(n), math.modf(x), math.trunc(x), math.degrees(x), math.radians(x)
 
 ### 2.	Random Library :
 The random module in Python is a built-in module that provides functions for generating random numbers, selecting random items, and performing other random-related operations. It's commonly used in various applications, simulations, and games that require randomness. Here are some commonly used functions from the random module:
