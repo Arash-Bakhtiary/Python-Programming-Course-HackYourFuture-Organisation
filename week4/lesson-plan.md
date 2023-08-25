@@ -1,12 +1,29 @@
-# Week 1 : Topic #4
+# Week 2 : Python Operators & If Statements
 
-## Pre-requisites:
+## Pre-requisites :
 
-Something about installing the software or prior knowlegde about a specific topic
+This course has no prerequisites. However, having familiarity with other programming languages can aid in your comprehension of Python.
+## Lesson Plan :
+### 1.	Arithmetic Operators :
 
-## Lesson Plan:
-### 1.	Sub-topic #4.1
+### 2.	Assignment Operators :
 
-### 2.	Sub-topic #4.2
+### 3.	Comparison Operators :
 
-### 3.	Sub-topic #4.3
+### 4.	Logical Operators :
+
+### 5.	Identity Operators :
+
+### 6.	Membership Operators :
+
+### 7.	Bitwise Operators :
+
+### 8.	Operator Precedence :
+
+### 9.	If Structure :
+
+### 10.	Short Hand If :
+
+### 11.	Short Hand If ... Else :
+
+### 12.	Nested If :
