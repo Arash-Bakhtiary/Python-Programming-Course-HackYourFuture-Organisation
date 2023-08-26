@@ -12,15 +12,34 @@ In Python, integers are objects, and they have associated methods that you can u
 * *to_bytes()*
 * *from_bytes()*
 * *__add__(other)*
-* *(__sub__(other))*
+* *__sub__(other))*
 * *__eq__(other)*
 * *__lt__(other)*
 
 ### 2.	Float Methods :
-In Python, floating-point numbers (floats) are objects with associated methods that you can use to perform various operations and manipulations. Here are some common methods that you can use with floating-point numbers: float() constructor, is_integer(), as_integer_ratio(), hex(), oct(), bin(), __add__(other), __sub__(other), __eq__(other), __lt__(other)
+In Python, floating-point numbers (floats) are objects with associated methods that you can use to perform various operations and manipulations. Here are some common methods that you can use with floating-point numbers: 
+**float()*
+**constructor*
+**is_integer()*
+**as_integer_ratio()*
+**hex()*
+**oct()*
+**bin()*
+**__add__(other)*
+**__sub__(other)*
+**__eq__(other)*
+**__lt__(other)*
 
 ### 3.	String Methods :
-Strings in Python are objects with associated methods that allow you to manipulate and perform various operations on text data. Here are some common string methods: upper(), lower(), capitalize(), title(), strip(), split(), join(), replace(), 
+Strings in Python are objects with associated methods that allow you to manipulate and perform various operations on text data. Here are some common string methods: 
+upper()
+lower()
+capitalize()
+title()
+strip()
+split()
+join()
+replace()
 
 ### 4.	List Methods :
 Lists in Python are versatile data structures that come with various built-in methods for manipulation and manipulation. Here are some common methods you can use with lists: append(item), extend(iterable), insert(index, item), remove(item), pop(index), index(item), count(item), sort(), reverse(), 
