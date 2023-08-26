@@ -18,17 +18,17 @@ In Python, integers are objects, and they have associated methods that you can u
 
 ### 2.	Float Methods :
 In Python, floating-point numbers (floats) are objects with associated methods that you can use to perform various operations and manipulations. Here are some common methods that you can use with floating-point numbers: 
-**float()*
-**constructor*
-**is_integer()*
-**as_integer_ratio()*
-**hex()*
-**oct()*
-**bin()*
-**__add__(other)*
-**__sub__(other)*
-**__eq__(other)*
-**__lt__(other)*
+* *float()*
+* *constructor*
+* *is_integer()*
+* *as_integer_ratio()*
+* *hex()*
+* *oct()*
+* *bin()*
+* *__add__(other)*
+* *__sub__(other)*
+* *__eq__(other)*
+* *__lt__(other)*
 
 ### 3.	String Methods :
 Strings in Python are objects with associated methods that allow you to manipulate and perform various operations on text data. Here are some common string methods: 
