@@ -22,15 +22,15 @@ The random module in Python is a built-in module that provides functions for gen
 
 ### 3.	Numpy Library :
 The numpy (Numerical Python) library is a powerful package in Python that provides support for working with arrays and matrices of numerical data, along with a wide range of mathematical functions to operate on these arrays. It is a fundamental library for scientific computing and data analysis in Python. Here are some key features and commonly used functionalities of the numpy library:
-Creating Arrays: numpy.array(iterable), numpy.zeros(shape), numpy.arange(start, stop, step)
-Basic Array Operations: Arithmetic operations (+, -, *, /, etc.), numpy.dot(array1, array2), numpy.transpose(array) or array.T, numpy.sum(array) and numpy.mean(array)
-Array Indexing and Slicing: Indexing (Access elements of arrays using indices), Slicing (Extract sub-arrays using slices)
-Universal Functions (ufuncs): numpy.sin(array), numpy.cos(array), numpy.exp(array), numpy.log(array)
-Array Shape and Reshaping: array.shape, array.reshape(new_shape), array.flatten()
-Statistical Functions: numpy.min(array), numpy.max(array), numpy.median(array)
-Random Number Generation: numpy.random.rand(shape) and numpy.random.randn(shape)
-Array Broadcasting: numpy supports broadcasting, which allows arithmetic operations between arrays of different shapes.
-Performance Optimization: numpy arrays are highly optimized and efficient for numerical computations, making it suitable for large-scale data processing and scientific computing.
+* *Creating Arrays:* numpy.array(iterable), numpy.zeros(shape), numpy.arange(start, stop, step)
+* *Basic Array Operations:* Arithmetic operations (+, -, *, /, etc.), numpy.dot(array1, array2), numpy.transpose(array) or array.T, numpy.sum(array) and numpy.mean(array)
+* *Array Indexing and Slicing:* Indexing (Access elements of arrays using indices), Slicing (Extract sub-arrays using slices)
+* *Universal Functions (ufuncs):* numpy.sin(array), numpy.cos(array), numpy.exp(array), numpy.log(array)
+* *Array Shape and Reshaping:* array.shape, array.reshape(new_shape), array.flatten()
+* *Statistical Functions:* numpy.min(array), numpy.max(array), numpy.median(array)
+* *Random Number Generation:* numpy.random.rand(shape) and numpy.random.randn(shape)
+* *Array Broadcasting:* numpy supports broadcasting, which allows arithmetic operations between arrays of different shapes.
+* *Performance Optimization:* numpy arrays are highly optimized and efficient for numerical computations, making it suitable for large-scale data processing and scientific computing.
 
 ### 4.	Pandas Library :
 The pandas library is a popular open-source data manipulation and analysis library for Python. It provides powerful data structures and functions to make working with structured data, such as tabular data and time series, efficient and straightforward. Here are some key features and commonly used functionalities of the pandas library:
