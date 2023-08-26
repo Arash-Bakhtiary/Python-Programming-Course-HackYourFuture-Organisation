@@ -14,11 +14,11 @@ The math module in Python is a built-in module that provides various mathematica
 ### 2.	Random Library :
 The random module in Python is a built-in module that provides functions for generating random numbers, selecting random items, and performing other random-related operations. It's commonly used in various applications, simulations, and games that require randomness. Here are some commonly used functions from the random module:
 * *Generating Random Numbers:* random.random(), random.uniform(a, b), random.randint(a, b), random.randrange(start, stop, step)
-Selecting Random Items: random.choice(seq), random.shuffle(lst), random.sample(population, k)
-Generating Random Sequences: random.seed(a=None, version=2), random.random()
-Random Probability: random.choices(population, weights=None, k=1), random.gauss(mu, sigma), 
-Random Integers: random.getrandbits(k)
-Random Strings: random.choices(population, weights=None, cum_weights=None, k=1), random.random(), 
+* *Selecting Random Items:* random.choice(seq), random.shuffle(lst), random.sample(population, k)
+* *Generating Random Sequences:* random.seed(a=None, version=2), random.random()
+* *Random Probability:* random.choices(population, weights=None, k=1), random.gauss(mu, sigma), 
+* *Random Integers:* random.getrandbits(k)
+* *Random Strings:* random.choices(population, weights=None, cum_weights=None, k=1), random.random(), 
 
 ### 3.	Numpy Library :
 The numpy (Numerical Python) library is a powerful package in Python that provides support for working with arrays and matrices of numerical data, along with a wide range of mathematical functions to operate on these arrays. It is a fundamental library for scientific computing and data analysis in Python. Here are some key features and commonly used functionalities of the numpy library:
