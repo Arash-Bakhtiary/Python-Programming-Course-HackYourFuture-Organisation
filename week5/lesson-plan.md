@@ -34,24 +34,24 @@ The numpy (Numerical Python) library is a powerful package in Python that provid
 
 ### 4.	Pandas Library :
 The pandas library is a popular open-source data manipulation and analysis library for Python. It provides powerful data structures and functions to make working with structured data, such as tabular data and time series, efficient and straightforward. Here are some key features and commonly used functionalities of the pandas library:
-Data Structures: pandas.Series, pandas.DataFrame
-Creating DataFrames: Creating a DataFrame from a dictionary or a list of dictionaries, Reading data from various file formats like CSV, Excel, SQL databases
-Data Manipulation: Indexing and Slicing, Filtering and Selection, Joining and Merging
-Data Cleaning: Handling Missing Data (fillna(), dropna(), and interpolate()), Removing Duplicates (drop_duplicates())
-Data Aggregation and Grouping: groupby(), Aggregation Functions (sum(), mean(), count())
-Time Series Handling: Resampling and Time Shifting
-Data Visualization: plot()
-Input/Output: Reading and Writing Data
-Handling Categorical Data: Convert categorical data to numerical form using pd.Categorical()
-Performance Optimization: pandas operations are designed to be highly efficient, making it suitable for large-scale data processing.
-Integration with Other Libraries: Integration with libraries like matplotlib, seaborn, and machine learning frameworks.
+* *Data Structures: pandas.Series, pandas.DataFrame
+* *Creating DataFrames:* Creating a DataFrame from a dictionary or a list of dictionaries, Reading data from various file formats like CSV, Excel, SQL databases
+* *Data Manipulation:* Indexing and Slicing, Filtering and Selection, Joining and Merging
+* *Data Cleaning:* Handling Missing Data (fillna(), dropna(), and interpolate()), Removing Duplicates (drop_duplicates())
+* *Data Aggregation and Grouping:* groupby(), Aggregation Functions (sum(), mean(), count())
+* *Time Series Handling:* Resampling and Time Shifting
+* *Data Visualization:* plot()
+* *Input/Output:* Reading and Writing Data
+* *Handling Categorical Data:* Convert categorical data to numerical form using pd.Categorical()
+* *Performance Optimization:* pandas operations are designed to be highly efficient, making it suitable for large-scale data processing.
+* *Integration with Other Libraries:* Integration with libraries like matplotlib, seaborn, and machine learning frameworks.
 
 ### 5.	Matplotlib Library :
 The matplotlib library is a widely used plotting and data visualization library for Python. It provides a variety of functions and tools for creating high-quality visualizations and graphs, making it an essential tool for data analysis, scientific research, and data communication. Here are some key features and commonly used functionalities of the matplotlib library:
-Basic Plotting: matplotlib.pyplot.plot(x, y), matplotlib.pyplot.scatter(x, y)
-Customization: matplotlib.pyplot.title(), matplotlib.pyplot.xlabel(), matplotlib.pyplot.ylabel(), matplotlib.pyplot.legend(), matplotlib.pyplot.grid(), matplotlib.pyplot.xlim(), matplotlib.pyplot.ylim()
-Subplots: matplotlib.pyplot.subplot(rows, cols, index), matplotlib.pyplot.subplots(rows, cols)
-Styles and Aesthetics: matplotlib.pyplot.style.use(), Customizing colors, markers, linestyles, etc.
-Saving and Exporting: matplotlib.pyplot.savefig(filename)
-Integration with pandas: Direct plotting from pandas DataFrames.
-Interactive Visualizations: matplotlib can be used in combination with libraries like mplcursors for adding interactivity to plots.
+* *Basic Plotting:* matplotlib.pyplot.plot(x, y), matplotlib.pyplot.scatter(x, y)
+* *Customization:* matplotlib.pyplot.title(), matplotlib.pyplot.xlabel(), matplotlib.pyplot.ylabel(), matplotlib.pyplot.legend(), matplotlib.pyplot.grid(), matplotlib.pyplot.xlim(), matplotlib.pyplot.ylim()
+* *Subplots:* matplotlib.pyplot.subplot(rows, cols, index), matplotlib.pyplot.subplots(rows, cols)
+* *Styles and Aesthetics:* matplotlib.pyplot.style.use(), Customizing colors, markers, linestyles, etc.
+* *Saving and Exporting:* matplotlib.pyplot.savefig(filename)
+* *Integration with pandas:* Direct plotting from pandas DataFrames.
+* *Interactive Visualizations:* matplotlib can be used in combination with libraries like mplcursors for adding interactivity to plots.
