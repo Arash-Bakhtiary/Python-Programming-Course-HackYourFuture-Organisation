@@ -12,7 +12,7 @@ In Python, integers are objects, and they have associated methods that you can u
 * *to_bytes()*
 * *from_bytes()*
 * *__add__(other)*
-* *__sub__(other)*
+* *(__sub__(other))*
 * *__eq__(other)*
 * *__lt__(other)*
 
