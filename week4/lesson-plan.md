@@ -32,20 +32,46 @@ In Python, floating-point numbers (floats) are objects with associated methods t
 
 ### 3.	String Methods :
 Strings in Python are objects with associated methods that allow you to manipulate and perform various operations on text data. Here are some common string methods: 
-upper()
-lower()
-capitalize()
-title()
-strip()
-split()
-join()
-replace()
+* *upper()*
+* *lower()*
+* *capitalize()*
+* *title()*
+* *strip()*
+* *split()*
+* *join()*
+* *replace()*
 
 ### 4.	List Methods :
-Lists in Python are versatile data structures that come with various built-in methods for manipulation and manipulation. Here are some common methods you can use with lists: append(item), extend(iterable), insert(index, item), remove(item), pop(index), index(item), count(item), sort(), reverse(), 
+Lists in Python are versatile data structures that come with various built-in methods for manipulation and manipulation. Here are some common methods you can use with lists: 
+* *append(item)*
+* *extend(iterable)*
+* *insert(index, item)*
+* *remove(item)*
+* *pop(index)*
+* *index(item)*
+* *count(item)*
+* *sort()*
+* *reverse()*
+
 
 ### 5.	Dictionary Methods :
-Dictionaries in Python are versatile data structures that store key-value pairs. They come with various built-in methods for manipulation and retrieval. Here are some common methods you can use with dictionaries: keys(), values(), items(), get(key, default), pop(key, default), update(other_dict), clear()
+Dictionaries in Python are versatile data structures that store key-value pairs. They come with various built-in methods for manipulation and retrieval. Here are some common methods you can use with dictionaries: 
+* *keys()*
+* *values()*
+* *items()*
+* *get(key, default)*
+* *pop(key, default)*
+* *update(other_dict)*
+* *clear()*
 
 ### 6.	Set Methods :
-Sets in Python are unordered collections of unique elements. They come with various built-in methods for set operations and manipulation. Here are some common methods you can use with sets: add(item), update(iterable), remove(item), discard(item), pop(), clear(), union(other_set), |, intersection(other_set), &, difference(other_set), -
+Sets in Python are unordered collections of unique elements. They come with various built-in methods for set operations and manipulation. Here are some common methods you can use with sets: 
+* *add(item)*
+* *update(iterable)*
+* *remove(item)*
+* *discard(item)*
+* *pop()*
+* *clear()*
+* *union(other_set), |*
+* *intersection(other_set), &*
+* *difference(other_set), -*
