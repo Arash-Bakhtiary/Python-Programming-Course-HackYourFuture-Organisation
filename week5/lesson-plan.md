@@ -34,7 +34,7 @@ The numpy (Numerical Python) library is a powerful package in Python that provid
 
 ### 4.	Pandas Library :
 The pandas library is a popular open-source data manipulation and analysis library for Python. It provides powerful data structures and functions to make working with structured data, such as tabular data and time series, efficient and straightforward. Here are some key features and commonly used functionalities of the pandas library:
-* *Data Structures: pandas.Series, pandas.DataFrame
+* *Data Structures:* pandas.Series, pandas.DataFrame
 * *Creating DataFrames:* Creating a DataFrame from a dictionary or a list of dictionaries, Reading data from various file formats like CSV, Excel, SQL databases
 * *Data Manipulation:* Indexing and Slicing, Filtering and Selection, Joining and Merging
 * *Data Cleaning:* Handling Missing Data (fillna(), dropna(), and interpolate()), Removing Duplicates (drop_duplicates())
