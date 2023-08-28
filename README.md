@@ -5,7 +5,12 @@ In this number_of_weeks week module we will build a MASTERCLASS application from
 
 ## Prerequisites
 
-This course has no prerequisites. However, having familiarity with other programming languages can aid in your comprehension of Python.
+This course has no strict prerequisites. However, having familiarity with basic programming concepts or experience in other programming languages can aid in your comprehension of Python. Some helpful background knowledge might include:
+
+Understanding of basic programming concepts like variables, loops, and conditionals.
+Experience working with any programming language, even at a beginner level.
+Basic problem-solving skills and logical thinking.
+Having said that, this course is designed to be accessible to complete beginners as well, so don't worry if you're new to programming.
 
 ## Preparation
 
