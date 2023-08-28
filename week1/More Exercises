@@ -1,8 +1,0 @@
-Assignment: Write a Python program that checks if a given number is even or odd. Take user input and display the result.
-Solution: 
-num = int(input("Enter a number: "))
-if num % 2 == 0:
-    print("Even")
-else:
-    print("Odd")
-
