@@ -2,7 +2,29 @@
 
 ## Pre-requisites :
 
-This course has no prerequisites. However, having familiarity with other programming languages can aid in your comprehension of Python.
+Before diving into the exploration of different methods available for various data types in Python, it's recommended to have a solid understanding of the following foundational concepts:
+
+* *Basic Python Syntax:*
+Familiarity with the core syntax of Python, including variables, data types, operators, and how to write and execute Python code, is essential for understanding and using methods effectively.
+
+* *Data Types:*
+A clear understanding of basic Python data types such as integers, floats, strings, lists, dictionaries, and sets will be crucial as you learn about their associated methods.
+
+* *Variable Manipulation:*
+Knowledge of how to create and manipulate variables, including performing arithmetic operations and concatenation, will help you comprehend and use the methods related to different data types.
+
+* *Basic String Manipulation:*
+Understanding how to work with strings, including string concatenation, indexing, and slicing, will be particularly relevant when exploring string methods.
+
+* *List and Dictionary Concepts:*
+Having a grasp of how lists and dictionaries work, including indexing, appending, and key-value pairs, will aid in understanding the methods associated with these data types.
+
+* *Text Editors or Integrated Development Environments (IDEs):*
+Access to a text editor or an Integrated Development Environment (IDE) for writing and running Python code is recommended to practice using methods.
+
+As you progress through this section, you'll delve into the various methods available for different data types in Python, such as integers, floats, strings, lists, dictionaries, and sets. Each topic will be introduced with clear explanations, examples, and hands-on exercises to reinforce your understanding of how to use these methods effectively.
+Remember that hands-on practice is key to mastering programming concepts. Experiment with different methods, explore their behavior, and apply them in various scenarios to deepen your understanding and build confidence in using Python's powerful capabilities.
+
 ## Lesson Plan :
 ### 1.	Integer Methods :
 In Python, integers are objects, and they have associated methods that you can use to perform various operations and manipulations. Here are some common methods that you can use with integers: 
