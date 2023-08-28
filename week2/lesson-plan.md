@@ -5,15 +5,16 @@ This course is designed to be beginner-friendly and assumes no prior programming
 Before delving into the concepts of arithmetic operators, assignment operators, comparison operators, logical operators, identity operators, membership operators, bitwise operators, operator precedence, and control structures, it's helpful to have a grasp of the following foundational concepts:
 
 **Basic Computer Literacy:**
+
 A basic understanding of how computers work, file management, and navigating through operating systems will be beneficial.
-
 **Logical Thinking:**
+
 An ability to think logically and solve problems systematically will be valuable as you learn about programming concepts.
-
 **Mathematical Awareness:**
-While the course will cover mathematical concepts as they relate to programming, having familiarity with basic mathematical operations (addition, subtraction, multiplication, division) will be advantageous.
 
+While the course will cover mathematical concepts as they relate to programming, having familiarity with basic mathematical operations (addition, subtraction, multiplication, division) will be advantageous.
 **Text Editors or Integrated Development Environments (IDEs):**
+
 It's recommended that you have access to a text editor or an Integrated Development Environment (IDE) where you can write and execute Python code. Familiarity with navigating and using such tools will be helpful.
 
 As the course progresses, each concept will be introduced with clear explanations and practical examples. The lessons are designed to build upon each other, gradually introducing you to the world of Python programming and guiding you through the various operators and control structures.
