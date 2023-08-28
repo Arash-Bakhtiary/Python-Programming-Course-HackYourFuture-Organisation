@@ -15,7 +15,7 @@ Basic experience with a text editor to write and save code files. Examples inclu
 * *IDEs:* Optional but beneficial; using integrated development environments like PyCharm, VSCode, or Jupyter Notebook can enhance your coding experience.
 4. **Basic Command Line Usage:**
 * *Navigating Directories:*
-* Knowing how to navigate through directories and access files using the command line interface.
+Knowing how to navigate through directories and access files using the command line interface.
 * *Running Programs:*
 Basic familiarity with running Python scripts through the command line.
 With these pre-requisites in place, you'll be well-equipped to embark on your Python journey. The concepts you'll encounter in this course will build upon these foundations, allowing you to grasp the material more effectively.
