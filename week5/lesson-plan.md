@@ -2,7 +2,31 @@
 
 ## Pre-requisites :
 
-This course has no prerequisites. However, having familiarity with other programming languages can aid in your comprehension of Python.
+Before delving into the exploration of various Python libraries for mathematical operations, random number generation, data manipulation, analysis, and data visualization, it's recommended to have a strong foundation in the following areas:
+
+* *Basic Python Concepts:*
+A solid understanding of fundamental Python concepts, including variables, data types, loops, conditional statements, and functions, will be essential as you work with libraries to perform more advanced operations.
+
+* *Arithmetic and Mathematical Operations:*
+Familiarity with basic arithmetic operations, mathematical functions, and their implementation in Python will provide a strong basis for understanding the capabilities of libraries like the math module, numpy, and pandas.
+
+* *Data Structures:*
+Understanding common data structures such as lists, dictionaries, and tuples, along with how to access, manipulate, and iterate over them, will be important when dealing with data manipulation libraries like pandas.
+
+* *Control Flow and Loops:*
+A good grasp of control flow concepts and loop structures, including for loops and while loops, will help you effectively utilize libraries that involve iterative operations.
+
+* *Basic Data Analysis Concepts:*
+Some familiarity with concepts related to data analysis, such as working with datasets, dataframes, and statistical operations, will be beneficial when working with libraries like pandas and numpy.
+
+* *Plotting and Data Visualization:*
+Basic knowledge of creating simple plots and graphs using matplotlib will be advantageous when exploring more advanced data visualization techniques provided by the library.
+
+* *Coding Environment:*
+Access to a coding environment, such as a text editor or Integrated Development Environment (IDE), will be necessary for writing and running Python code that utilizes these libraries.
+
+As you progress through this section, you'll learn how to leverage various libraries to perform advanced mathematical computations, generate random numbers, manipulate and analyze data, and create meaningful visualizations. Each library will be introduced with clear explanations, examples, and practical exercises to help you gain hands-on experience and confidence in using these powerful tools.
+Remember that practice is essential for mastering the usage of libraries. Experiment with different functions and techniques, explore the documentation, and apply your knowledge to real-world scenarios to deepen your understanding and proficiency.
 ## Lesson Plan :
 ### 1.	Math Library :
 The math module in Python is a built-in module that provides various mathematical functions and constants. It allows you to perform complex mathematical operations and calculations. Here are some commonly used functions and constants from the math module:
