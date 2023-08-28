@@ -56,6 +56,7 @@ This course has no strict prerequisites. However, having familiarity with basic 
 *  Understanding of basic programming concepts like variables, loops, and conditionals.
 *  Experience working with any programming language, even at a beginner level.
 *  Basic problem-solving skills and logical thinking.
+  
 Having said that, this course is designed to be accessible to complete beginners as well, so don't worry if you're new to programming.
 
 ## Preparation
