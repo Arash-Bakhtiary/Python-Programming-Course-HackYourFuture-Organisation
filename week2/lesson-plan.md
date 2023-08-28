@@ -2,7 +2,25 @@
 
 ## Pre-requisites :
 
-This course has no prerequisites. However, having familiarity with other programming languages can aid in your comprehension of Python.
+This course is designed to be beginner-friendly and assumes no prior programming experience. However, having some familiarity with basic computer concepts and logic can enhance your understanding of the topics covered in this section.
+
+Before delving into the concepts of arithmetic operators, assignment operators, comparison operators, logical operators, identity operators, membership operators, bitwise operators, operator precedence, and control structures, it's helpful to have a grasp of the following foundational concepts:
+
+**Basic Computer Literacy:**
+A basic understanding of how computers work, file management, and navigating through operating systems will be beneficial.
+
+**Logical Thinking:**
+An ability to think logically and solve problems systematically will be valuable as you learn about programming concepts.
+
+**Mathematical Awareness:**
+While the course will cover mathematical concepts as they relate to programming, having familiarity with basic mathematical operations (addition, subtraction, multiplication, division) will be advantageous.
+
+**Text Editors or Integrated Development Environments (IDEs):**
+It's recommended that you have access to a text editor or an Integrated Development Environment (IDE) where you can write and execute Python code. Familiarity with navigating and using such tools will be helpful.
+
+As the course progresses, each concept will be introduced with clear explanations and practical examples. The lessons are designed to build upon each other, gradually introducing you to the world of Python programming and guiding you through the various operators and control structures.
+Remember that learning to program is a gradual process, and it's absolutely normal to encounter challenges along the way. Stay curious, practice regularly, and don't hesitate to seek help if you encounter difficulties. By the end of this course, you'll have a solid foundation in Python programming that you can continue to build upon.
+
 ## Lesson Plan :
 ### 1.	Arithmetic Operators :
 Arithmetic operators are symbols used in Python to perform various arithmetic operations on numbers. They allow you to perform basic mathematical calculations.
