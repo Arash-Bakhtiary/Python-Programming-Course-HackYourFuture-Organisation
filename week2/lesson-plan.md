@@ -1,9 +1,7 @@
 # Week 2 : Python Operators & If Statements
 
 ## Pre-requisites :
-
 This course is designed to be beginner-friendly and assumes no prior programming experience. However, having some familiarity with basic computer concepts and logic can enhance your understanding of the topics covered in this section.
-
 Before delving into the concepts of arithmetic operators, assignment operators, comparison operators, logical operators, identity operators, membership operators, bitwise operators, operator precedence, and control structures, it's helpful to have a grasp of the following foundational concepts:
 
 **Basic Computer Literacy:**
