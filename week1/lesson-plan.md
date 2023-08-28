@@ -5,16 +5,16 @@
 Before diving into the exciting world of Python programming, it's helpful to have a foundational understanding of some programming concepts. While this course assumes no prior knowledge of Python, having familiarity with a few fundamental concepts will aid in your comprehension and make your learning journey smoother.
 
 * *Basic Programming Concepts:*
-  - Logic and Algorithms: Understanding how programs work, the sequence of steps they follow, and the logical reasoning behind decisions in code.*Variables and Data Types:*Familiarity with variables as containers for data and basic data types like integers, floats, strings, and booleans.
+  - Logic and Algorithms: Understanding how programs work, the sequence of steps they follow, and the logical reasoning behind decisions in code.
+  - Variables and Data Types: Familiarity with variables as containers for data and basic data types like integers, floats, strings, and booleans.
 
 * *Text Editors or Integrated Development Environments (IDEs):*
   - Text Editors: Basic experience with a text editor to write and save code files. Examples include Notepad++, Sublime Text, or Visual Studio Code.
   - IDEs: Optional but beneficial; using integrated development environments like PyCharm, VSCode, or Jupyter Notebook can enhance your coding experience.
 
 * *Basic Command Line Usage:*
-  - Navigating Directories:*
-Knowing how to navigate through directories and access files using the command line interface.*Running Programs:*
-Basic familiarity with running Python scripts through the command line.
+  - Navigating Directories: Knowing how to navigate through directories and access files using the command line interface.
+  - Running Programs: Basic familiarity with running Python scripts through the command line.
 
 As you delve into the topics of syntax, data types, and classes, you'll build upon these foundational concepts to understand how Python's language structure and data representation work. Each topic will be introduced with clear explanations, examples, and practical exercises to help you gain hands-on experience and confidence in using Python effectively.
 Remember that practice is key to mastering these concepts. Experiment with code, apply your understanding to solve problems, and explore the capabilities of Python's built-in data types and classes.
