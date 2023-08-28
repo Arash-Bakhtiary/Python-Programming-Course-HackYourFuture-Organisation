@@ -2,7 +2,27 @@
 
 ## Pre-requisites :
 
-This course has no prerequisites. However, having familiarity with other programming languages can aid in your comprehension of Python.
+This section of the course focuses on loops and functions, fundamental programming concepts that allow you to create efficient and modular code. Before diving into these topics, it's recommended to have a solid understanding of the following foundational concepts:
+Basic Python Syntax: Familiarity with basic Python syntax, data types (such as integers, floats, strings, lists), and how to write and execute Python code is essential as you progress into more advanced programming concepts.
+
+**Variables and Data Manipulation:**
+Understanding how to work with variables, assign values, and manipulate data using arithmetic operations will be crucial when working with loops and functions.
+
+**Conditional Statements:**
+Having a grasp of conditional statements (such as if, else, and elif) will help you understand the flow of control in programs, which is closely related to loops and functions.
+
+**Basic Mathematical Operations:**
+A basic understanding of mathematical operations (addition, subtraction, multiplication, division) will be important when working with functions that involve calculations.
+
+**Logical Thinking:**
+Developing logical thinking skills will greatly assist you in creating efficient loops and designing effective functions.
+
+**Text Editors or Integrated Development Environments (IDEs):**
+Having access to a text editor or an Integrated Development Environment (IDE) to write and execute Python code is recommended for hands-on practice.
+
+As you progress through this section, you'll learn about various loop structures, including while loops and for loops, as well as concepts related to creating and using functions. Each topic will be introduced with clear explanations, examples, and hands-on exercises to reinforce your understanding.
+Remember that programming is a skill that is best learned through practice and experimentation. Don't be discouraged if you encounter challenges along the way—persevere and seek assistance when needed. By mastering loops and functions, you'll gain the ability to create dynamic and efficient programs that can solve a wide range of problems.
+
 ## Lesson Plan :
 ### 1.	While Loops :
 A "while loop" is a control flow structure in Python (and many other programming languages) that allows you to repeatedly execute a block of code as long as a certain condition is true. The loop continues to run as long as the specified condition evaluates to True, and it terminates as soon as the condition becomes False.
