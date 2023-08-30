@@ -47,11 +47,8 @@ Operator precedence in Python determines the order in which operators are evalua
 ### 9.	If Structure :
 The "if" structure in Python is used for conditional branching, allowing you to execute different code blocks based on the evaluation of a given condition. 
 
-### 10.	Short Hand If :
-In Python, you can use a shorthand version of the "if" statement called the "ternary operator" or "conditional expression" to write more concise code for simple conditions. 
-
-### 11.	Short Hand If ... Else :
+### 10.	Short Hand If ... Else :
 The shorthand version of the "if...else" statement, often referred to as the ternary operator or conditional expression, allows you to write concise conditional code in a single line. It's useful when you want to assign a value based on a condition.
 
-### 12.	Nested If :
+### 11.	Nested If :
 A nested "if" statement in Python is an "if" statement that is placed within another "if" statement. This allows you to create multiple levels of conditions and perform more complex decision-making based on various criteria.
