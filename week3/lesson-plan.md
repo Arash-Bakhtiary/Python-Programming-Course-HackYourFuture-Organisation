@@ -51,12 +51,9 @@ Lambda functions, also known as anonymous functions, are a concise way to create
 ### 9.	Higher-Order Functions (map(), filter(), reduce(), sorted()) :
 Higher-order functions in Python are functions that can take other functions as arguments or return functions as their results. They enable powerful functional programming techniques by allowing you to treat functions as first-class citizens. Four commonly used higher-order functions in Python are map(), filter(), reduce(), and sorted().
 
-### 10.	Generator Functions :
-Generator functions in Python are a special type of function that allow you to create iterators in a more memory-efficient and lazy way. Instead of generating and storing all values in memory at once, like lists or tuples, generator functions produce values on-the-fly as you iterate over them. This makes them especially useful for dealing with large datasets or when you want to generate values dynamically without precomputing them.
-
-### 11.	Recursive Functions :
+### 10.	Recursive Functions :
 Recursive functions are functions in Python that call themselves to solve a problem. They provide a way to solve complex problems by breaking them down into smaller, simpler instances of the same problem. 
 
-### 12.	Arguments in Functions : 
+### 11.	Arguments in Functions : 
 In Python, functions can accept arguments, which are values provided to the function when it's called. Arguments allow you to pass data into a function so that it can perform operations on that data.
 
