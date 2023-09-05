@@ -39,24 +39,18 @@ The continue statement is another control flow statement in Python that allows y
 ### 5.	Nested Loops :
 Nested loops are a concept in programming where you use one loop inside another loop. This allows you to perform more complex and structured iterations, often for tasks that involve multiple levels of iteration. In Python (and most programming languages), you can nest loops of the same type (e.g., nested for loops or nested while loops) or even different types of loops within each other.
 
-### 6.	Creating a Function (Built-in) :
-Creating functions in Python allows you to encapsulate a block of code into a reusable and organized structure. Python provides a variety of built-in functions that you can use directly, and you can also create your own functions when you need to perform specific tasks.
-
-### 7.	User-Defined Functions :
+### 6.	User-Defined Functions :
 User-defined functions in Python are functions that you create yourself to perform specific tasks. These functions allow you to encapsulate a block of code that you can reuse and call multiple times within your program. 
 
-### 8.	Lambda Functions :
+### 7.	Lambda Functions :
 Lambda functions, also known as anonymous functions, are a concise way to create small, one-line functions in Python. They are defined using the lambda keyword, and they are often used for simple operations that can be expressed as single expressions. Lambda functions are commonly used when a function is required as an argument to another function, such as in the case of sorting or filtering.
 
-### 9.	Higher-Order Functions (map(), filter(), reduce(), sorted()) :
+### 8.	Higher-Order Functions (map(), filter(), reduce(), sorted()) :
 Higher-order functions in Python are functions that can take other functions as arguments or return functions as their results. They enable powerful functional programming techniques by allowing you to treat functions as first-class citizens. Four commonly used higher-order functions in Python are map(), filter(), reduce(), and sorted().
 
-### 10.	Generator Functions :
-Generator functions in Python are a special type of function that allow you to create iterators in a more memory-efficient and lazy way. Instead of generating and storing all values in memory at once, like lists or tuples, generator functions produce values on-the-fly as you iterate over them. This makes them especially useful for dealing with large datasets or when you want to generate values dynamically without precomputing them.
-
-### 11.	Recursive Functions :
+### 9.	Recursive Functions :
 Recursive functions are functions in Python that call themselves to solve a problem. They provide a way to solve complex problems by breaking them down into smaller, simpler instances of the same problem. 
 
-### 12.	Arguments in Functions : 
+### 10.	Arguments in Functions : 
 In Python, functions can accept arguments, which are values provided to the function when it's called. Arguments allow you to pass data into a function so that it can perform operations on that data.
 
