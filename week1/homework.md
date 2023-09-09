@@ -8,7 +8,7 @@ Create a PR to add your homework to the respective week folder like you are used
 
 1.Identify and correct the error. 
 
-This line contains a syntax error, fix it.
+- This line contains a syntax error, fix it.
 print("Hello, World!)
 
 
